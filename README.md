@@ -58,3 +58,16 @@
 
 **Link(s) to work**: 
 - https://github.com/sean-owen/CodeWars_Solutions/commits?author=sean-owen&since=2020-10-28&until=2020-10-29
+
+#
+
+### Day 5: October 29, 2020
+
+**Today's Progress**: 
+- Worked on tournament tracker project.
+
+**Thoughts**: 
+- Make a big effort to start working ASAP after sitting down. Once started, motivation to continue working comes easily.
+
+**Link(s) to work**: 
+- https://github.com/sean-owen/TournamentTracker/commits?author=sean-owen&since=2020-10-29&until=2020-10-30

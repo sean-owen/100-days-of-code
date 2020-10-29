@@ -68,6 +68,8 @@
 
 **Thoughts**: 
 - Make a big effort to start working ASAP after sitting down. Once started, motivation to continue working comes easily.
+- Try and remember to commit small & often (after a contained unit of work is complete may work well).
+- Consider checking previous days' thoughts in this log each day before starting coding.
 
 **Link(s) to work**: 
 - https://github.com/sean-owen/TournamentTracker/commits?author=sean-owen&since=2020-10-29&until=2020-10-30

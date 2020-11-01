@@ -99,3 +99,16 @@
 
 **Link(s) to work**: 
 - https://github.com/sean-owen/CodeWars_Solutions/commits?author=sean-owen&since=2020-11-01&until=2020-11-02
+
+#
+
+### Day 8: November 1, 2020
+
+**Today's Progress**: 
+- Worked on tournament tracker project.
+
+**Thoughts**: 
+- Nothing to report.
+
+**Link(s) to work**: 
+- https://github.com/sean-owen/TournamentTracker/commits?author=sean-owen&since=2020-11-01&until=2020-11-02

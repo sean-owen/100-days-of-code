@@ -86,3 +86,16 @@
 
 **Link(s) to work**: 
 - https://github.com/sean-owen/TournamentTracker/commits?author=sean-owen&since=2020-10-30&until=2020-10-31
+
+#
+
+### Day 7: October 31, 2020
+
+**Today's Progress**: 
+- Worked on some CodeWars Katas (didnt push changes till gone midnight so commits show up on 1 Nov).
+
+**Thoughts**: 
+- Had a total nightmare with google domains!
+
+**Link(s) to work**: 
+- https://github.com/sean-owen/CodeWars_Solutions/commits?author=sean-owen&since=2020-11-01&until=2020-11-02

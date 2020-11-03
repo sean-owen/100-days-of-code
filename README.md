@@ -112,3 +112,16 @@
 
 **Link(s) to work**: 
 - https://github.com/sean-owen/TournamentTracker/commits?author=sean-owen&since=2020-11-01&until=2020-11-02
+
+#
+
+### Day 9: November 2, 2020
+
+**Today's Progress**: 
+- Worked on some CodeWars Katas (didnt push changes till gone midnight so commits show up on 3 Nov).
+
+**Thoughts**: 
+- Nothing to report.
+
+**Link(s) to work**: 
+- https://github.com/sean-owen/CodeWars_Solutions/commits?author=sean-owen&since=2020-11-03&until=2020-11-04

@@ -125,3 +125,16 @@
 
 **Link(s) to work**: 
 - https://github.com/sean-owen/CodeWars_Solutions/commits?author=sean-owen&since=2020-11-03&until=2020-11-04
+
+#
+
+### Day 10: November 3, 2020
+
+**Today's Progress**: 
+- Worked on tournament tracker project.
+
+**Thoughts**: 
+- Need to pick up the pace on tournament tracker project to get to start looking into web dev stuff for the new front end!
+
+**Link(s) to work**: 
+- https://github.com/sean-owen/TournamentTracker/commits?author=sean-owen&since=2020-11-01&until=2020-11-04

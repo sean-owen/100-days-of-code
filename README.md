@@ -138,3 +138,16 @@
 
 **Link(s) to work**: 
 - https://github.com/sean-owen/TournamentTracker/commits?author=sean-owen&since=2020-11-01&until=2020-11-04
+
+#
+
+### Day 11: November 4, 2020
+
+**Today's Progress**: 
+- Worked on tournament tracker project.
+
+**Thoughts**: 
+- Nothing to report.
+
+**Link(s) to work**: 
+- https://github.com/sean-owen/TournamentTracker/commits?author=sean-owen&since=2020-11-04&until=2020-11-05

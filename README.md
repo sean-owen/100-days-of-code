@@ -160,7 +160,7 @@
 - Worked on tournament tracker project.
 
 **Thoughts**: 
-- Nothing to report.
+- Investigate setting up workflow on github properly to decouple it from specific projects in the solution. High probability windows forms will be used for prototyping / temporary front UI in the future so should get a workflow yml that will work with win forms customized to for requirements.
 
 **Link(s) to work**: 
 - https://github.com/sean-owen/TournamentTracker/commits?author=sean-owen&since=2020-11-05&until=2020-11-06

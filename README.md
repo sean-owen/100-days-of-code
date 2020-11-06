@@ -164,3 +164,18 @@
 
 **Link(s) to work**: 
 - https://github.com/sean-owen/TournamentTracker/commits?author=sean-owen&since=2020-11-05&until=2020-11-06
+
+#
+
+### Day 13: November 6, 2020
+
+**Today's Progress**: 
+- Worked on tournament tracker project.
+- Completed a CodeWars Kata.
+
+**Thoughts**: 
+- Day 12 thought / action to be carried forward.
+
+**Link(s) to work**: 
+- https://github.com/sean-owen/TournamentTracker/commits?author=sean-owen&since=2020-11-06&until=2020-11-07
+- https://github.com/sean-owen/CodeWars_Solutions/commits?author=sean-owen&since=2020-11-06&until=2020-11-07

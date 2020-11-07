@@ -179,3 +179,18 @@
 **Link(s) to work**: 
 - https://github.com/sean-owen/TournamentTracker/commits?author=sean-owen&since=2020-11-06&until=2020-11-07
 - https://github.com/sean-owen/CodeWars_Solutions/commits?author=sean-owen&since=2020-11-06&until=2020-11-07
+
+#
+
+### Day 14: November 7, 2020
+
+**Today's Progress**: 
+- Worked on tournament tracker project.
+- Tried and failed at completing a couple of CodeWars Katas.
+
+**Thoughts**: 
+- Day 12 thought / action to be carried forward.
+- Not everyday is a successful as the previous **but** some progress is better than none.
+
+**Link(s) to work**: 
+- https://github.com/sean-owen/TournamentTracker/commits?author=sean-owen&since=2020-11-07&until=2020-11-08

@@ -194,3 +194,16 @@
 
 **Link(s) to work**: 
 - https://github.com/sean-owen/TournamentTracker/commits?author=sean-owen&since=2020-11-07&until=2020-11-08
+
+#
+
+### Day 15: November 8, 2020
+
+**Today's Progress**: 
+- Worked on tournament tracker project.
+
+**Thoughts**: 
+- Day 12 thought / action to be carried forward.
+
+**Link(s) to work**: 
+- https://github.com/sean-owen/TournamentTracker/commits?author=sean-owen&since=2020-11-08&until=2020-11-09

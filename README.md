@@ -207,3 +207,19 @@
 
 **Link(s) to work**: 
 - https://github.com/sean-owen/TournamentTracker/commits?author=sean-owen&since=2020-11-08&until=2020-11-09
+
+#
+
+### Day 16: November 9, 2020
+
+**Today's Progress**: 
+- Worked on tournament tracker project.
+- Completed code wars kata.
+
+**Thoughts**: 
+- Day 12 thought / action to be carried forward.
+
+**Link(s) to work**: 
+- https://github.com/sean-owen/CodeWars_Solutions/commits?author=sean-owen&since=2020-11-09&until=2020-11-10
+- https://github.com/sean-owen/TournamentTracker/commits?author=sean-owen&since=2020-11-10&until=2020-11-11
+

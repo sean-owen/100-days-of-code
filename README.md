@@ -223,3 +223,15 @@
 - https://github.com/sean-owen/CodeWars_Solutions/commits?author=sean-owen&since=2020-11-09&until=2020-11-10
 - https://github.com/sean-owen/TournamentTracker/commits?author=sean-owen&since=2020-11-10&until=2020-11-11
 
+#
+
+### Day 17: November 12, 2020
+
+**Today's Progress**: 
+- Completed code wars kata.
+
+**Thoughts**: 
+- Day 12 thought / action to be carried forward.
+
+**Link(s) to work**: 
+- https://github.com/sean-owen/CodeWars_Solutions/commits?author=sean-owen&since=2020-11-12&until=2020-11-13

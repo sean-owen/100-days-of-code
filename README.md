@@ -248,3 +248,16 @@
 
 **Link(s) to work**: 
 - https://github.com/sean-owen/CodeWars_Solutions/commits?author=sean-owen&since=2020-11-13&until=2020-11-14
+
+#
+
+### Day 19: November 14, 2020
+
+**Today's Progress**: 
+- Completed code wars kata.
+
+**Thoughts**: 
+- Day 12 thought / action to be carried forward.
+
+**Link(s) to work**: 
+- https://github.com/sean-owen/CodeWars_Solutions/commits?author=sean-owen&since=2020-11-14&until=2020-11-15

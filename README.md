@@ -274,3 +274,32 @@
 
 **Link(s) to work**: 
 - https://github.com/sean-owen/CodeWars_Solutions/commits?author=sean-owen&since=2020-11-15&until=2020-11-16
+
+#
+
+### Day 21: November 17, 2020
+
+**Today's Progress**: 
+- Worked on a code wars kata - Become Immortal. Attempted to optimize kata further to meeting requirement of running v.large numbers.
+
+**Thoughts**: 
+- Day 12 thought / action to be carried forward.
+
+**Link(s) to work**: 
+- https://github.com/sean-owen/CodeWars_Solutions/commits?author=sean-owen&since=2020-11-18&until=2020-11-19
+
+#
+
+### Day 22: November 19, 2020
+
+**Today's Progress**: 
+- Worked on a code wars kata - Become Immortal. Attempted to optimize kata further to meeting requirement of running v.large numbers.
+- Achieved solution for even rectangle dimensions and 1 even, 1 odd rectangle dimension.
+- Further work required for two odd inputs.
+
+**Thoughts**: 
+- Day 12 thought / action to be carried forward.
+
+**Link(s) to work**: 
+- https://github.com/sean-owen/CodeWars_Solutions/commits?author=sean-owen&since=2020-11-19&until=2020-11-20
+

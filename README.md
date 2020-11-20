@@ -303,3 +303,17 @@
 **Link(s) to work**: 
 - https://github.com/sean-owen/CodeWars_Solutions/commits?author=sean-owen&since=2020-11-19&until=2020-11-20
 
+#
+
+### Day 22: November 20, 2020
+
+**Today's Progress**: 
+- Continued work on Become Immortal kata.
+- Achieved solution for x is a multiple of 2^n and x is alrger than y.
+- Further work required for x varying from multiples of 2^n. Once this is resolved, can always move largest input to x position.
+
+**Thoughts**: 
+- Day 12 thought / action to be carried forward.
+
+**Link(s) to work**: 
+- https://github.com/sean-owen/BecomeImmortalKata/commits?author=sean-owen&since=2020-11-20&until=2020-11-21

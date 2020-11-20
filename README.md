@@ -305,7 +305,7 @@
 
 #
 
-### Day 22: November 20, 2020
+### Day 23: November 20, 2020
 
 **Today's Progress**: 
 - Continued work on Become Immortal kata.

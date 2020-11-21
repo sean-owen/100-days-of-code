@@ -317,3 +317,18 @@
 
 **Link(s) to work**: 
 - https://github.com/sean-owen/BecomeImmortalKata/commits?author=sean-owen&since=2020-11-20&until=2020-11-21
+
+#
+
+### Day 24: November 21, 2020
+
+**Today's Progress**: 
+- Continued work on Become Immortal kata.
+- Achieved solution for x is a multiple of 2^n.
+- Implemented solution for x varying from multiple of 2^n however it gives answer 'near' to correct answer, not the actual correct answer.
+
+**Thoughts**: 
+- Day 12 thought / action to be carried forward.
+
+**Link(s) to work**: 
+- https://github.com/sean-owen/BecomeImmortalKata/commits?author=sean-owen&since=2020-11-21&until=2020-11-22

@@ -346,3 +346,17 @@
 
 **Link(s) to work**: 
 - https://github.com/sean-owen/BecomeImmortalKata/commits?author=sean-owen&since=2020-11-22&until=2020-11-23
+
+#
+
+### Day 26: November 23, 2020
+
+**Today's Progress**: 
+- Continued to struggle on with Become Immortal kata.
+- Implemented approach which works for most values of x and y. Need to debug edge cases.
+
+**Thoughts**: 
+- Day 12 thought / action to be carried forward.
+
+**Link(s) to work**: 
+- https://github.com/sean-owen/BecomeImmortalKata/commits?author=sean-owen&since=2020-11-24&until=2020-11-25

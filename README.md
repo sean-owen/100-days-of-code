@@ -360,3 +360,17 @@
 
 **Link(s) to work**: 
 - https://github.com/sean-owen/BecomeImmortalKata/commits?author=sean-owen&since=2020-11-24&until=2020-11-25
+
+#
+
+### Day 27: November 24, 2020
+
+**Today's Progress**: 
+- Continued to struggle on with Become Immortal kata.
+- Implemented solution that works for 0 loss.
+
+**Thoughts**: 
+- Day 12 thought / action to be carried forward.
+
+**Link(s) to work**: 
+- https://github.com/sean-owen/BecomeImmortalKata/commits?author=sean-owen&since=2020-11-24&until=2020-11-25

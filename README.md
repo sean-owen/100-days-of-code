@@ -374,3 +374,17 @@
 
 **Link(s) to work**: 
 - https://github.com/sean-owen/BecomeImmortalKata/commits?author=sean-owen&since=2020-11-24&until=2020-11-25
+
+#
+
+### Day 28: November 27, 2020
+
+**Today's Progress**: 
+- Refactor Become Immortal kata to make code manageable.
+- Write pseudo code for solution to 16th row increment issue.
+
+**Thoughts**: 
+- Day 12 thought / action to be carried forward.
+
+**Link(s) to work**: 
+- https://github.com/sean-owen/BecomeImmortalKata/commits?author=sean-owen&since=2020-11-27&until=2020-11-28

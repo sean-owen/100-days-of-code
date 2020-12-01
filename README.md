@@ -388,3 +388,16 @@
 
 **Link(s) to work**: 
 - https://github.com/sean-owen/BecomeImmortalKata/commits?author=sean-owen&since=2020-11-27&until=2020-11-28
+
+#
+
+### Day 29: December 01 2020
+
+**Today's Progress**: 
+- Solved a code wars kata.
+
+**Thoughts**: 
+- Day 12 thought / action to be carried forward.
+
+**Link(s) to work**: 
+- https://github.com/sean-owen/CodeWars_Solutions/commits?author=sean-owen&since=2020-12-01&until=2020-12-02
